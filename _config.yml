@@ -1,8 +1,6 @@
 title: Zhiqi Chen
 logo: /assets/img/headshot.JPG
-description: Hi! I'm currently a second-year PhD student co-advised by Prof. Yao Wang (ECE department, NYU) 
-  and Dr. Hiroshi Ishikawa (School of Medicine, NYU). 
-  I'm interested in medical image processing, machine learning, and computer vision.
+#description: 
 show_downloads: true
 #google_analytics:
 theme: jekyll-theme-minimal

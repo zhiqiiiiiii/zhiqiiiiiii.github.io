@@ -2,17 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Hi! I'm currently a second-year PhD student co-advised by Prof. Yao Wang (ECE department, NYU) and Dr. Hiroshi Ishikawa (School of Medicine, NYU). I'm interested in medical image processing, machine learning, and computer vision.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Projects
 
 ## Header 2
 
