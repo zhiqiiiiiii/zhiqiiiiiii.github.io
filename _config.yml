@@ -21,9 +21,9 @@
 title: Zhiqi Chen
 email: zc1337@nyu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi! I'm currently a second-year PhD student co-advised by Prof. Yao Wang (ECE department, NYU) and Dr. Hiroshi Ishikawa (School of Medicine, NYU). I'm interested in ML applications in medical image processing and video processing.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Hi! I'm currently a second-year PhD student co-advised by Prof. Yao Wang (ECE department, NYU) 
+  and Dr. Hiroshi Ishikawa (School of Medicine, NYU). 
+  I'm interested in medical image processing, machine learning, and computer vision.
 #twitter_username: jekyllrb
 github_username:  zhiqiiiiiii
 
