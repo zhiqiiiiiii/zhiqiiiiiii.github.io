@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 
 ## Video Interpolation: Warping Towards Middle Frames in Pyramids
@@ -7,4 +7,5 @@ layout: default
 Your browser does not support the video tag.
 </video>
 
+<center><embed src="./assets/img/poster_video_interpolation.pdf" width="850" height="600"></center>
 [poster](./)
