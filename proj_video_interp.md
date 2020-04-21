@@ -1,5 +1,5 @@
 ---
-layout: default_no_logo
+layout: default_minima
 ---
 
 ## Video Interpolation: Warping Towards Middle Frames in Pyramids
