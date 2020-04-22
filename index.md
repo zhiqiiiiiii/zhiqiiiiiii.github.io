@@ -4,7 +4,7 @@ layout: default
 
 # About me
 
-Hi! I'm currently a second-year PhD student co-advised by Prof. [Yao Wang](https://engineering.nyu.edu/faculty/yao-wang) (ECE department, NYU) and Dr. [Hiroshi Ishikawa](https://med.nyu.edu/faculty/hiroshi-ishikawa) (School of Medicine, NYU). I'm interested in medical image processing, machine learning, and computer vision. [CV](./assets/img/CV_20200421.pdf)
+Hi! I'm currently a second-year PhD student co-advised by Prof. [Yao Wang](https://engineering.nyu.edu/faculty/yao-wang) (ECE department, NYU) and Dr. [Hiroshi Ishikawa](https://med.nyu.edu/faculty/hiroshi-ishikawa) (School of Medicine, NYU). I'm interested in medical image processing, machine learning, and computer vision.
 
 # Projects
 
