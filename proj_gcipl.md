@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_no_logo
 ---
 
 ## Macular GCIPL Thickness Map Prediction via Time-Aware Convolutional LSTM
