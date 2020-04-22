@@ -19,4 +19,5 @@ Macular ganglion cell inner plexiform layer (GCIPL) thickness is an important bi
 
 # My BFFs!
 
-[Feiran Yang](https://feirany.github.io/)
+[Feiran Yang](https://feirany.github.io/) M.S. Candidate, Dept. of Bioengineering, University of Washington.
+Jing Zhang Ph.D. Candidate, Dept. of Biomedical Engineering, Boston University.
