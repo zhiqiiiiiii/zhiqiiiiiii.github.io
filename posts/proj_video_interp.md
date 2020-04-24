@@ -12,4 +12,4 @@ frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 
-<center><embed src="./assets/img/poster_video_interpolation.pdf" width="560" height="315"></center>
+<center><embed src="../assets/img/poster_video_interpolation.pdf" width="560" height="315"></center>
