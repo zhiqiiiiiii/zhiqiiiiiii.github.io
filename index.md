@@ -4,7 +4,7 @@ layout: default
 
 # About me
 
-Hi! I'm currently a second-year PhD student co-advised by Prof. [Yao Wang](https://engineering.nyu.edu/faculty/yao-wang) (ECE department, NYU) and Dr. [Hiroshi Ishikawa](https://med.nyu.edu/faculty/hiroshi-ishikawa) (School of Medicine, NYU). I'm interested in medical image processing, machine learning, and computer vision.
+Hi! I'm currently a PhD candidate co-advised by Prof. [Yao Wang](https://engineering.nyu.edu/faculty/yao-wang) (ECE department, NYU) and Dr. [Hiroshi Ishikawa](https://med.nyu.edu/faculty/hiroshi-ishikawa) (School of Medicine, NYU). I'm interested in medical image processing, machine learning, and computer vision.
 
 # Projects
 
@@ -16,6 +16,10 @@ Video prediction is useful in daily life, like getting early warning of possible
 
 ### [Macular GCIPL Thickness Map Prediction via Time-Aware Convolutional LSTM](./posts/proj_gcipl.html)
 Macular ganglion cell inner plexiform layer (GCIPL) thickness is an important biomarker for clinical managements of glaucoma. Clinical analysis of GCIPL progression uses averaged thickness only, which easily washes out small changes and reveals no spatial patterns. This is the first work to predict the 2D GCIPL thickness map. We propose a novel Time-aware Convolutional Long Short-Term Memory (TC-LSTM) unit to decompose memories into the short-term and long-term memories and exploit time intervals to penalize the short-term memory. TC-LSTM unit is incorporated into an auto-encoder-decoder so that the end-to-end model can handle irregular sampling intervals of longitudinal GCIPL thickness map sequences and capture both spatial and temporal correlations. Experiments show the superiority of the proposed model over the traditional method.
+
+### [Interactive 2D editor for vector graphics ](./posts/proj_graphic.html)
+An interactive application that allows to add, edit, delete, and rasterize triangles. Transforms like translation, rotation, and scale could be applied to selected primitives and view
+transformation options available. Animations can be generated through interpolations between key frames.
 
 # My BFFs!
 
